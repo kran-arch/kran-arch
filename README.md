@@ -8,7 +8,7 @@ Outside of coding, I'm interested in exploring new AI frameworks, working on cre
 
 **Let's connect!**
 
-<a href="https://kran-arch.github.io/karankhokhar.com" target="_blank">
+<a href="https://kran-arch.github.io/karan" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
 </a>
 <a href="https://www.linkedin.com/in/karan-khokhar" target="_blank">
