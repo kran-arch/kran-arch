@@ -106,31 +106,41 @@ The goal is to understand **why it works**.
 ## 🌐 Find Me
 
 <p align="center">
-  <a href="https://github.com/kran-arch">
-    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="38" />
+  <a href="https://github.com/kran-arch" title="GitHub">
+    <img
+      src="https://cdn.simpleicons.org/github/ffffff"
+      width="42"
+      height="42"
+      alt="GitHub"
+    />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/karan-khokhar">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="38" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karan-khokhar" title="LinkedIn">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="42"
+      height="42"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://kran-arch.github.io/karan/">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" width="38" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kran-arch.github.io/karan/" title="Portfolio">
+    <img
+      src="https://api.iconify.design/solar:code-square-linear.svg?color=%23ffffff"
+      width="42"
+      height="42"
+      alt="Portfolio"
+    />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:karankhokhar2021@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="38" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:karankhokhar2021@gmail.com" title="Email">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="42"
+      height="42"
+      alt="Email"
+    />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kran-arch">GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/karan-khokhar">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://kran-arch.github.io/karan/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:karankhokhar2021@gmail.com">Email</a>
 </p>
 
 ---
