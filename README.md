@@ -105,8 +105,6 @@ The goal is to understand **why it works**.
 
 ## 🌐 Find Me
 
-## 🌐 Find Me
-
 <p align="center">
   <a href="https://github.com/kran-arch">
     <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="38" />
