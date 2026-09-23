@@ -1,225 +1,148 @@
-<div align="center">
+# Hi, I'm Karan Khokhar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Karan%20Khokhar&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=AI%20%26%20Machine%20Learning%20%7C%20Developer%20%7C%20Builder&descAlignY=57&descSize=19&animation=fadeIn&color=0:4F46E5,45:7C3AED,75:A855F7,100:EC4899" width="100%"/>
+### B.Tech — Artificial Intelligence & Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&height=45&lines=Building+things+to+learn.;Exploring+AI+%26+Machine+Learning.;Turning+ideas+into+working+software.;Experimenting.+Breaking.+Understanding.+Improving." />
+> **"I don't just want to use technology. I want to understand how it works."**
 
-<br>
+I'm an AI & ML student interested in **software engineering, systems, algorithms, and intelligent systems**.
 
-<a href="https://kran-arch.github.io/karan/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/kran-arch">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/karan-khokhar">
-<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kran-arch&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
-
-</div>
+I learn by building things from the ground up—writing code, experimenting with ideas, breaking things, understanding why they fail, and improving them.
 
 ---
 
-<div align="center">
+## 🧭 What I'm Focused On
 
-## `01` — About Me
-
-</div>
-
-I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, interested in building practical software and understanding how intelligent systems work beneath the surface.
-
-My approach is simple:
-
-**Learn → Build → Break → Understand → Improve**
-
-I prefer learning through projects rather than only following tutorials. Every project is an opportunity to understand something more deeply.
+* **Artificial Intelligence & Machine Learning** — understanding the fundamentals behind intelligent systems
+* **Programming** — Python, C, and learning how software works beneath the abstractions
+* **Algorithms & Data Structures** — solving problems and understanding computational thinking
+* **Systems & Linux** — exploring operating systems, tooling, and the developer environment
+* **Web Development** — building practical applications with modern web technologies
+* **Automation** — creating tools that make development and everyday workflows more efficient
 
 ---
 
-<div align="center">
+## ⚙️ Technologies & Tools
 
-## `02` — Currently Exploring
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🐍
-
-**Python**
-
-Fundamentals
-Problem Solving
-Algorithms
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI / ML**
-
-Machine Learning
-AI Concepts
-Experiments
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚛️
-
-**Web**
-
-React
-JavaScript
-Modern Web
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐧
-
-**Systems**
-
-C
-Linux
-Git
-
-</td>
-</tr>
-</table>
-
-</div>
+| Area                    | Technologies                                   |
+| ----------------------- | ---------------------------------------------- |
+| 🤖 **AI / ML**          | Python · Machine Learning · AI Fundamentals    |
+| 💻 **Programming**      | C · Python · JavaScript                        |
+| 🌐 **Web**              | React · Modern Web Technologies                |
+| 🐧 **Systems**          | Linux · Git · Shell                            |
+| 🧠 **Computer Science** | Algorithms · Data Structures · Problem Solving |
 
 ---
 
-<div align="center">
-
-## `03` — Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,c,js,react,git,linux&theme=dark&perline=6" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Algorithms-6366F1?style=for-the-badge&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `04` — What I Build
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Projects
 
 ### 🧠 Learning Projects
 
-Small projects designed to turn concepts into actual code.
+Projects built to strengthen my programming and computer science fundamentals.
 
-**Currently working with:**
+* **Python Learning Journey**
+  Practical projects focused on Python fundamentals, problem solving, data structures, and algorithms.
+
+* **C Programming**
+  Learning how software works closer to the machine through C, memory management, input handling, and core programming concepts.
+
+* **Algorithms & Data Structures**
+  Implementations and experiments designed to improve algorithmic thinking and problem solving.
+
+---
+
+### 🛠️ Practical Projects
+
+Projects where I turn ideas into usable software.
+
+* **Web Development**
+  Interactive applications built with React, JavaScript, and modern web technologies.
+
+* **AI / ML Experiments**
+  Exploring machine learning workflows, data processing, and practical AI applications.
+
+* **Automation & Developer Tools**
+  Small tools and scripts designed to automate repetitive tasks and improve development workflows.
+
+---
+
+## 🧪 How I Learn
+
+I prefer **building over memorizing**.
+
+My usual process is:
+
+```text
+Learn the concept
+      ↓
+Build something with it
+      ↓
+Break it
+      ↓
+Understand why it broke
+      ↓
+Fix and improve it
+      ↓
+Document what I learned
+```
+
+The goal isn't just to make something work.
+
+The goal is to understand **why it works**.
+
+---
+
+## 📚 Currently Learning
 
 * Python
 * C
-* Algorithms
-* Data structures
-* Problem solving
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Practical Projects
-
-Projects where I experiment with technologies and try to solve actual problems.
-
-**Exploring:**
-
-* React applications
-* AI / ML workflows
-* Automation
-* Developer tooling
-
-</td>
-</tr>
-</table>
+* Data Structures & Algorithms
+* Machine Learning
+* Linux & Systems
+* Web Development
+* Software Engineering Practices
 
 ---
 
-<div align="center">
+## 🌐 Find Me
 
-## `05` — The Process
+## 🌐 Find Me
 
-<br>
+<p align="center">
+  <a href="https://github.com/kran-arch">
+    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="38" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karan-khokhar">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="38" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kran-arch.github.io/karan/">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" width="38" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:karankhokhar2021@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="38" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=700&color=A78BFA&center=true&vCenter=true&width=650&height=35&lines=IDEA+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE" />
-
-<br><br>
-
-> **I don't want to just use technology.
-> I want to understand how it works.**
-
-</div>
-
----
-
-<div align="center">
-
-## `06` — GitHub
-
-<br>
-
-<a href="https://github.com/kran-arch">
-<img src="https://github-readme-stats.vercel.app/api?username=kran-arch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" height="170"/>
-</a>
-
-<a href="https://github.com/kran-arch">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kran-arch&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" height="170"/>
-</a>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kran-arch&bg_color=0D1117&color=A78BFA&line=7C3AED&point=EC4899&area=true&hide_border=true" width="95%"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/kran-arch">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/karan-khokhar">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://kran-arch.github.io/karan/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:karankhokhar2021@gmail.com">Email</a>
+</p>
 
 ---
 
-<div align="center">
+## 📂 All Repositories
 
-## `07` — Find Me
+[**→ Explore my repositories**](https://github.com/kran-arch?tab=repositories)
 
-<a href="https://kran-arch.github.io/karan/">
-<img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/karan-khokhar">
-<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:karankhokhar2021@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:4F46E5,45:7C3AED,75:A855F7,100:EC4899" width="100%"/>
-
-</div>
+<p align="center">
+  <i>Build. Break. Understand. Improve.</i>
+</p>
