@@ -1,79 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Karan%20Khokhar&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&color=0:6D28D9,50:7C3AED,100:EC4899" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Karan%20Khokhar&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=AI%20%26%20Machine%20Learning%20%7C%20Developer%20%7C%20Builder&descAlignY=57&descSize=19&animation=fadeIn&color=0:4F46E5,45:7C3AED,75:A855F7,100:EC4899" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&height=45&lines=Building+things+to+learn.;Exploring+AI+%26+Machine+Learning.;Turning+ideas+into+working+software.;Experimenting.+Breaking.+Understanding.+Improving." />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+things+to+learn.;Exploring+AI+%26+Machine+Learning.;Turning+ideas+into+projects.;I+build%2C+I+break%2C+I+learn." />
-
-<br><br>
-
 <a href="https://kran-arch.github.io/karan/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/kran-arch">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/karan-khokhar">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="mailto:karankhokhar2021@gmail.com">
-<img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kran-arch&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/sparkling.png" width="22"/> About Me
+<div align="center">
 
-I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, interested in building practical software and understanding how intelligent systems work.
+## `01` — About Me
 
-I learn by **building, experimenting, breaking things, and improving them**.
+</div>
 
-Currently exploring:
+I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, interested in building practical software and understanding how intelligent systems work beneath the surface.
 
-* 🐍 **Python & Algorithms**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* ⚛️ **React & Modern Web Development**
-* 🛠️ **Practical Software Projects**
+My approach is simple:
+
+**Learn → Build → Break → Understand → Improve**
+
+I prefer learning through projects rather than only following tutorials. Every project is an opportunity to understand something more deeply.
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/rocket.png" width="22"/> What I'm Building
+<div align="center">
+
+## `02` — Currently Exploring
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🐍
+
+**Python**
+
+Fundamentals
+Problem Solving
+Algorithms
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI / ML**
+
+Machine Learning
+AI Concepts
+Experiments
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️
+
+**Web**
+
+React
+JavaScript
+Modern Web
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐧
+
+**Systems**
+
+C
+Linux
+Git
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `03` — Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,c,js,react,git,linux&theme=dark&perline=6" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-6366F1?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `04` — What I Build
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 Python
+### 🧠 Learning Projects
 
-Strengthening my fundamentals through small projects, algorithms, and experimentation.
+Small projects designed to turn concepts into actual code.
 
-</td>
+**Currently working with:**
 
-<td width="50%" valign="top">
-
-### 🤖 AI / ML
-
-Learning the foundations behind machine learning and intelligent systems.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚛️ Web
-
-Building interfaces and applications with React and modern web technologies.
+* Python
+* C
+* Algorithms
+* Data structures
+* Problem solving
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛠️ Projects
+### 🚀 Practical Projects
 
-Turning what I learn into practical, documented projects.
+Projects where I experiment with technologies and try to solve actual problems.
+
+**Exploring:**
+
+* React applications
+* AI / ML workflows
+* Automation
+* Developer tooling
 
 </td>
 </tr>
@@ -81,49 +163,18 @@ Turning what I learn into practical, documented projects.
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/code.png" width="22"/> Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,react,git,linux&theme=dark" />
+## `05` — The Process
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=700&color=A78BFA&center=true&vCenter=true&width=650&height=35&lines=IDEA+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Algorithms-4F46E5?style=flat-square&logo=thealgorithms&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-DB2777?style=flat-square&logo=openai&logoColor=white"/>
-
-</div>
-
----
-
-## <img src="https://img.icons8.com/fluency/28/brain.png" width="22"/> My Approach
-
-<div align="center">
-
-```text
-        ┌───────────┐
-        │   IDEA    │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   BUILD   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   BREAK   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │ UNDERSTAND│
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │  IMPROVE  │
-        └─────┬─────┘
-              │
-              └───────────→ repeat
-```
+> **I don't want to just use technology.
+> I want to understand how it works.**
 
 </div>
 
@@ -131,20 +182,44 @@ Turning what I learn into practical, documented projects.
 
 <div align="center">
 
-### <img src="https://img.icons8.com/fluency/28/sparkling.png" width="20"/> Explore My Work
+## `06` — GitHub
+
+<br>
 
 <a href="https://github.com/kran-arch">
-<img src="https://img.shields.io/badge/VIEW%20PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kran-arch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" height="170"/>
+</a>
+
+<a href="https://github.com/kran-arch">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kran-arch&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" height="170"/>
 </a>
 
 <br><br>
 
-<a href="https://kran-arch.github.io/karan/">Portfolio</a>
-  ·   <a href="https://www.linkedin.com/in/karan-khokhar">LinkedIn</a>
-  ·   <a href="mailto:karankhokhar2021@gmail.com">Email</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kran-arch&bg_color=0D1117&color=A78BFA&line=7C3AED&point=EC4899&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `07` — Find Me
+
+<a href="https://kran-arch.github.io/karan/">
+<img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/karan-khokhar">
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:karankhokhar2021@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:7C3AED,100:EC4899" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:4F46E5,45:7C3AED,75:A855F7,100:EC4899" width="100%"/>
 
 </div>
